@@ -4,7 +4,13 @@
 
 - I'm attempting to build a front end web application framework motivated by react and angular
 - For now lets go with the basics
-- Technology used is Typescript
+
+---
+
+## Technologies
+
+- Typescript
+- Vite for fast production builds
 
 ---
 
@@ -16,11 +22,12 @@
 unyamajs/
 ├── package.json
 ├── tsconfig.json
-├── src/
-│   ├── index.ts
-│   ├── unyamajs.ts
-│   └── app.ts
-└── dist/
+├── public/
+│   └── index.html
+└── src/
+    ├── index.ts
+    ├── unyama.ts
+    └── app.ts
 ```
 
 ---
