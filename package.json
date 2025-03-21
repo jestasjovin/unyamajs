@@ -1,0 +1,23 @@
+{
+  "name": "unyamajs",
+  "version": "1.0.0",
+  "description": "A mini React-like UI framework using a Virtual DOM",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "engines": {
+    "node": ">=21.0.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.2"
+  }
+}
