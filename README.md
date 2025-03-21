@@ -31,6 +31,16 @@ unyamajs/
 ```
 
 ---
+## Starting server
+
+### starting
+```bash
+
+npm run start
+
+```
+
+---
 
 ## License
 
